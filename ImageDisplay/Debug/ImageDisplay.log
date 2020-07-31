@@ -1,0 +1,34 @@
+﻿  loadScene.cpp
+D:\ImageDisplay\ImageDisplay\loadScene.cpp(21,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ImageDisplay\ImageDisplay\loadScene.cpp(23,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ImageDisplay\ImageDisplay\loadScene.cpp(30,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ImageDisplay\ImageDisplay\loadScene.cpp(32,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ImageDisplay\ImageDisplay\loadScene.cpp(39,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ImageDisplay\ImageDisplay\loadScene.cpp(41,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ImageDisplay\ImageDisplay\loadScene.cpp(48,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ImageDisplay\ImageDisplay\loadScene.cpp(54,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ImageDisplay\ImageDisplay\loadScene.cpp(62,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ImageDisplay\ImageDisplay\loadScene.cpp(47,8): warning C4101: “filepoint”: 未引用的局部变量
+  Main.cpp
+D:\ImageDisplay\ImageDisplay\Main.cpp(2,10): fatal error C1083: 无法打开包括文件: “opencv2/core.hpp”: No such file or directory
+  renderer.cpp
+D:\ImageDisplay\ImageDisplay\renderer.cpp(75,45): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+D:\ImageDisplay\ImageDisplay\renderer.cpp(77,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\ImageDisplay\ImageDisplay\renderer.cpp(80,20): warning C4305: “初始化”: 从“double”到“float”截断
+D:\ImageDisplay\ImageDisplay\renderer.cpp(87,171): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\ImageDisplay\ImageDisplay\renderer.cpp(87,110): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\ImageDisplay\ImageDisplay\renderer.cpp(98,29): warning C4018: “<”: 有符号/无符号不匹配
+D:\ImageDisplay\ImageDisplay\renderer.cpp(100,30): warning C4018: “<”: 有符号/无符号不匹配
+D:\ImageDisplay\ImageDisplay\renderer.cpp(111,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\ImageDisplay\ImageDisplay\renderer.cpp(112,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\ImageDisplay\ImageDisplay\renderer.cpp(179,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\ImageDisplay\ImageDisplay\renderer.cpp(180,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\ImageDisplay\ImageDisplay\renderer.cpp(181,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\ImageDisplay\ImageDisplay\renderer.cpp(182,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\ImageDisplay\ImageDisplay\renderer.cpp(205,28): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\ImageDisplay\ImageDisplay\renderer.cpp(251,28): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\ImageDisplay\ImageDisplay\renderer.cpp(274,37): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\ImageDisplay\ImageDisplay\renderer.cpp(279,90): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+D:\ImageDisplay\ImageDisplay\renderer.cpp(280,98): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+D:\ImageDisplay\ImageDisplay\renderer.cpp(281,98): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  正在生成代码...
